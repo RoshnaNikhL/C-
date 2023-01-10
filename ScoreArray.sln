@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreArray", "ScoreArray.csproj", "{B4BD5B50-7F58-402A-A8CC-1568E9038D5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDOperations", "..\CRUDOperations\CRUDOperations.csproj", "{8E44D1CB-55F6-4FB3-B957-3C906EF08A22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4BD5B50-7F58-402A-A8CC-1568E9038D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BD5B50-7F58-402A-A8CC-1568E9038D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BD5B50-7F58-402A-A8CC-1568E9038D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BD5B50-7F58-402A-A8CC-1568E9038D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E44D1CB-55F6-4FB3-B957-3C906EF08A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E44D1CB-55F6-4FB3-B957-3C906EF08A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E44D1CB-55F6-4FB3-B957-3C906EF08A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E44D1CB-55F6-4FB3-B957-3C906EF08A22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {814AF59B-35AB-429C-B894-6582CB8172C9}
+	EndGlobalSection
+EndGlobal
